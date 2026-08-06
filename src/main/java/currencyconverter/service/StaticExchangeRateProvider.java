@@ -1,6 +1,7 @@
-package club.ybhs.currencyconverter.service;
+package currencyconverter.service;
 
-import club.ybhs.currencyconverter.model.Currency;
+import currencyconverter.model.Currency;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.OptionalDouble;

@@ -1,8 +1,9 @@
-package club.ybhs.currencyconverter.app;
+package currencyconverter.app;
 
-import club.ybhs.currencyconverter.model.Currency;
-import club.ybhs.currencyconverter.service.CurrencyConverterService;
-import club.ybhs.currencyconverter.service.StaticExchangeRateProvider;
+import currencyconverter.model.Currency;
+import currencyconverter.service.CurrencyConverterService;
+import currencyconverter.service.StaticExchangeRateProvider;
+
 import java.util.OptionalDouble;
 
 /**
