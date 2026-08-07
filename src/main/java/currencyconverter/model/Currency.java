@@ -1,4 +1,4 @@
-package club.ybhs.currencyconverter.model;
+package currencyconverter.model;
 
 /**
  * Starter set of supported currencies.
