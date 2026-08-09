@@ -16,3 +16,6 @@ This repository now includes starter classes designed for club collaboration and
   - Basic entry point demo to help contributors run and iterate.
 
 Each class includes implementation tips as comments so students can continue building features such as a UI or live exchange-rate API support.
+
+test
+testing
