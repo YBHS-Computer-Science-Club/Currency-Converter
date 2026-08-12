@@ -18,7 +18,12 @@ This repository now includes starter classes designed for club collaboration and
 Each class includes implementation tips as comments so students can continue building features such as a UI or live exchange-rate API support.
 
 ## HOW TO COLLABORATE: 
+# Creating a Branch
 - You can actually edit your code directly from the Github website, there are other ways of doing it but this is the most beginner friendly in my opinion.
+- First, you will need to select a certain branch that you will work on. There will be a button that shows the number of branches that are currently being worked on. You will need to click it.
+- Once you click the 'branch' button, you will need to make a new branch. When you are making a branch, make sure the Source is the 'main' branch.
+- After you create your new branch, you will select your newly created branch and from there, you will begin your code that will be sent to the 'main' branch when you finish your task.
+# Beginning to Code
 - First, you need to click on the source file that stores the majority of the code. This will change depending on the task but usually you will be assigned to work on the 'src/main/java/currencyconverter/' file path
 - Next, there should be some smaller files inside of that (in this case, they will be named 'app', 'model' or 'service'. Click the dropdown and you should be able to access the '.java' files.
 - Once you are in the '.java' files, click on the one you want to edit
@@ -27,5 +32,4 @@ Each class includes implementation tips as comments so students can continue bui
 
 ## HOW TO SUBMIT CHANGES
 - In order for your changes to actually submit (or in this case, commit) you need to click on the 'commit changes' button on the top right-hand corner. It should be green and easy to find
-- Once you click that, it will give you the option to create a new branch, press the 'Propose changes' button AFTER you create a brief description of what you added to the code.
-- 
+- Since you created a new branch earlier, all you have to do is write a description of what you edited or added in your code, and you should be finished!
