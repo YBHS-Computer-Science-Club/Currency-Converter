@@ -1,8 +1,9 @@
 # Currency-Converter
 A currency converter made in Java.
 
-## Starter project outline
-This repository now includes starter classes designed for club collaboration and future expansion:
+## Project outline
+This repository contains multiple classes, each with different purposes.
+Students will need to implement certain methods themselves.
 
 - `/home/runner/work/Currency-Converter/Currency-Converter/src/main/java/club/ybhs/currencyconverter/model/Currency.java`
   - Currency enum (starter list, easy to expand).
